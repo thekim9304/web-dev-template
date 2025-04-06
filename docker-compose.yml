@@ -20,6 +20,7 @@ services:
       - "3000:3000"
     volumes:
       - ./nextjs:/app
+      - /app/node_modules
     depends_on:
       - fastapi
 

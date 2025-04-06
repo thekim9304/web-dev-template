@@ -37,7 +37,7 @@ sudo usermod -aG docker $USER
 ### 0.2 템플릿 클론
 
 ```bash
-git clone https://github.com/your-username/web-dev-template.git {project_dir_name}
+git clone https://github.com/thekim9304/web-dev-template.git {project_dir_name}
 cd {project_dir_name}
 ```
 
